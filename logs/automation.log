@@ -1,0 +1,361 @@
+2024-05-09 16:54:30 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\grid-docker.xml"
+2024-05-09 16:54:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\grid-docker.xml
+
+2024-05-09 16:54:31 INFO  TC_001_AccountRegistrationTest:16 - *******Starting TC_001_AccountRegistrationTest*********
+2024-05-09 16:54:31 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log mesaage
+2024-05-09 16:54:31 INFO  TC_001_AccountRegistrationTest:67 - *********Finished Tc_001_AccountRegistrationTest*******
+2024-05-09 16:55:49 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\master.xml"
+2024-05-09 16:55:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\master.xml
+
+2024-05-09 16:55:58 INFO  TC_001_AccountRegistrationTest:16 - *******Starting TC_001_AccountRegistrationTest*********
+2024-05-09 16:55:58 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log mesaage
+2024-05-09 16:55:58 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-05-09 16:55:59 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link
+2024-05-09 16:56:01 INFO  TC_001_AccountRegistrationTest:41 - Clicked on Continue Button for Account creation
+2024-05-09 16:56:04 INFO  TC_001_AccountRegistrationTest:44 - Validating Expected message
+2024-05-09 16:56:04 INFO  TC_001_AccountRegistrationTest:57 - Test Passed
+2024-05-09 16:56:04 INFO  TC_001_AccountRegistrationTest:67 - *********Finished Tc_001_AccountRegistrationTest*******
+2024-05-09 16:56:10 INFO  TC_002_LoginTest:16 - ***********Starting TC_002_LoginTest***********
+2024-05-09 16:56:10 DEBUG TC_002_LoginTest:17 - This is a debug log mesaage
+2024-05-09 16:56:10 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link on Home Page
+2024-05-09 16:56:10 INFO  TC_002_LoginTest:25 - Clicked on Login under MyAccount
+2024-05-09 16:56:10 INFO  TC_002_LoginTest:29 - Entering Valid Email Address and Password
+2024-05-09 16:56:11 INFO  TC_002_LoginTest:31 - Entered Email Address
+2024-05-09 16:56:11 INFO  TC_002_LoginTest:33 - Entered Email Password
+2024-05-09 16:56:11 INFO  TC_002_LoginTest:35 - Clicked on Login button
+2024-05-09 16:56:12 INFO  TC_002_LoginTest:44 - Login Successful... Test Passed
+2024-05-09 16:56:12 INFO  TC_002_LoginTest:61 - **********Finished TC_002_LoginTest*********
+2024-05-09 16:56:17 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:18 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:18 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:18 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:18 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:18 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:18 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:18 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:18 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:18 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:18 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-05-09 16:56:19 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-05-09 16:56:19 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-05-09 16:56:19 INFO  TC_003_LoginDDTTest:27 - **** Starting TC_003_LoginDDT *****
+2024-05-09 16:56:22 INFO  TC_003_LoginDDTTest:77 - **** Finished TC_003_LoginDDT *****
+2024-05-09 16:56:22 INFO  TC_003_LoginDDTTest:27 - **** Starting TC_003_LoginDDT *****
+2024-05-09 16:56:25 INFO  TC_003_LoginDDTTest:77 - **** Finished TC_003_LoginDDT *****
+2024-05-09 16:56:25 INFO  TC_003_LoginDDTTest:27 - **** Starting TC_003_LoginDDT *****
+2024-05-09 16:56:28 INFO  TC_003_LoginDDTTest:27 - **** Starting TC_003_LoginDDT *****
+2024-05-09 16:56:40 INFO  TC_003_LoginDDTTest:77 - **** Finished TC_003_LoginDDT *****
+2024-05-09 16:56:40 INFO  TC_003_LoginDDTTest:27 - **** Starting TC_003_LoginDDT *****
+2024-05-09 16:56:44 INFO  TC_003_LoginDDTTest:77 - **** Finished TC_003_LoginDDT *****
+2024-05-09 17:05:29 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\grid-docker.xml"
+2024-05-09 17:05:30 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\grid-docker.xml
+
+2024-05-09 17:05:38 INFO  TC_001_AccountRegistrationTest:16 - *******Starting TC_001_AccountRegistrationTest*********
+2024-05-09 17:05:38 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log mesaage
+2024-05-09 17:05:38 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-05-09 17:05:39 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link
+2024-05-09 17:05:42 INFO  TC_001_AccountRegistrationTest:41 - Clicked on Continue Button for Account creation
+2024-05-09 17:05:44 INFO  TC_001_AccountRegistrationTest:44 - Validating Expected message
+2024-05-09 17:05:44 INFO  TC_001_AccountRegistrationTest:57 - Test Passed
+2024-05-09 17:05:44 INFO  TC_001_AccountRegistrationTest:67 - *********Finished Tc_001_AccountRegistrationTest*******
+2024-05-09 17:05:48 INFO  TC_002_LoginTest:16 - ***********Starting TC_002_LoginTest***********
+2024-05-09 17:05:48 DEBUG TC_002_LoginTest:17 - This is a debug log mesaage
+2024-05-09 17:05:49 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link on Home Page
+2024-05-09 17:05:49 INFO  TC_002_LoginTest:25 - Clicked on Login under MyAccount
+2024-05-09 17:05:49 INFO  TC_002_LoginTest:29 - Entering Valid Email Address and Password
+2024-05-09 17:05:50 INFO  TC_002_LoginTest:31 - Entered Email Address
+2024-05-09 17:05:50 INFO  TC_002_LoginTest:33 - Entered Email Password
+2024-05-09 17:05:51 INFO  TC_002_LoginTest:35 - Clicked on Login button
+2024-05-09 17:05:51 INFO  TC_002_LoginTest:44 - Login Successful... Test Passed
+2024-05-09 17:05:51 INFO  TC_002_LoginTest:61 - **********Finished TC_002_LoginTest*********
+2024-05-09 17:06:54 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\grid-docker.xml"
+2024-05-09 17:16:36 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\grid-docker.xml"
+2024-05-09 17:18:22 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\grid-docker.xml"
+2024-05-09 17:18:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\grid-docker.xml
+
+2024-05-09 17:18:33 INFO  TC_001_AccountRegistrationTest:16 - *******Starting TC_001_AccountRegistrationTest*********
+2024-05-09 17:18:33 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log mesaage
+2024-05-09 17:18:33 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-05-09 17:18:34 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link
+2024-05-09 17:18:36 INFO  TC_001_AccountRegistrationTest:41 - Clicked on Continue Button for Account creation
+2024-05-09 17:18:38 INFO  TC_001_AccountRegistrationTest:44 - Validating Expected message
+2024-05-09 17:18:38 INFO  TC_001_AccountRegistrationTest:57 - Test Passed
+2024-05-09 17:18:38 INFO  TC_001_AccountRegistrationTest:67 - *********Finished Tc_001_AccountRegistrationTest*******
+2024-05-09 17:18:47 INFO  TC_002_LoginTest:16 - ***********Starting TC_002_LoginTest***********
+2024-05-09 17:18:47 DEBUG TC_002_LoginTest:17 - This is a debug log mesaage
+2024-05-09 17:18:47 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link on Home Page
+2024-05-09 17:18:48 INFO  TC_002_LoginTest:25 - Clicked on Login under MyAccount
+2024-05-09 17:18:48 INFO  TC_002_LoginTest:29 - Entering Valid Email Address and Password
+2024-05-09 17:18:48 INFO  TC_002_LoginTest:31 - Entered Email Address
+2024-05-09 17:18:48 INFO  TC_002_LoginTest:33 - Entered Email Password
+2024-05-09 17:18:49 INFO  TC_002_LoginTest:35 - Clicked on Login button
+2024-05-09 17:18:49 INFO  TC_002_LoginTest:44 - Login Successful... Test Passed
+2024-05-09 17:18:49 INFO  TC_002_LoginTest:61 - **********Finished TC_002_LoginTest*********
+2024-05-09 17:19:19 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\grid-docker.xml"
+2024-05-09 17:19:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\grid-docker.xml
+
+2024-05-09 17:19:24 INFO  TC_001_AccountRegistrationTest:16 - *******Starting TC_001_AccountRegistrationTest*********
+2024-05-09 17:19:24 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log mesaage
+2024-05-09 17:19:25 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-05-09 17:19:26 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link
+2024-05-09 17:19:28 INFO  TC_001_AccountRegistrationTest:41 - Clicked on Continue Button for Account creation
+2024-05-09 17:19:30 INFO  TC_001_AccountRegistrationTest:44 - Validating Expected message
+2024-05-09 17:19:30 INFO  TC_001_AccountRegistrationTest:57 - Test Passed
+2024-05-09 17:19:30 INFO  TC_001_AccountRegistrationTest:67 - *********Finished Tc_001_AccountRegistrationTest*******
+2024-05-09 17:19:35 INFO  TC_002_LoginTest:16 - ***********Starting TC_002_LoginTest***********
+2024-05-09 17:19:35 DEBUG TC_002_LoginTest:17 - This is a debug log mesaage
+2024-05-09 17:19:35 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link on Home Page
+2024-05-09 17:19:35 INFO  TC_002_LoginTest:25 - Clicked on Login under MyAccount
+2024-05-09 17:19:36 INFO  TC_002_LoginTest:29 - Entering Valid Email Address and Password
+2024-05-09 17:19:36 INFO  TC_002_LoginTest:31 - Entered Email Address
+2024-05-09 17:19:36 INFO  TC_002_LoginTest:33 - Entered Email Password
+2024-05-09 17:19:37 INFO  TC_002_LoginTest:35 - Clicked on Login button
+2024-05-09 17:19:37 INFO  TC_002_LoginTest:44 - Login Successful... Test Passed
+2024-05-09 17:19:37 INFO  TC_002_LoginTest:61 - **********Finished TC_002_LoginTest*********
+2024-05-09 17:19:47 INFO  TC_001_AccountRegistrationTest:16 - *******Starting TC_001_AccountRegistrationTest*********
+2024-05-09 17:19:47 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log mesaage
+2024-05-09 17:19:48 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-05-09 17:19:49 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link
+2024-05-09 17:19:51 INFO  TC_001_AccountRegistrationTest:41 - Clicked on Continue Button for Account creation
+2024-05-09 17:19:53 INFO  TC_001_AccountRegistrationTest:44 - Validating Expected message
+2024-05-09 17:19:53 INFO  TC_001_AccountRegistrationTest:57 - Test Passed
+2024-05-09 17:19:53 INFO  TC_001_AccountRegistrationTest:67 - *********Finished Tc_001_AccountRegistrationTest*******
+2024-05-09 17:20:01 INFO  TC_002_LoginTest:16 - ***********Starting TC_002_LoginTest***********
+2024-05-09 17:20:01 DEBUG TC_002_LoginTest:17 - This is a debug log mesaage
+2024-05-09 17:20:02 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link on Home Page
+2024-05-09 17:20:02 INFO  TC_002_LoginTest:25 - Clicked on Login under MyAccount
+2024-05-09 17:20:02 INFO  TC_002_LoginTest:29 - Entering Valid Email Address and Password
+2024-05-09 17:20:03 INFO  TC_002_LoginTest:31 - Entered Email Address
+2024-05-09 17:20:03 INFO  TC_002_LoginTest:33 - Entered Email Password
+2024-05-09 17:20:04 INFO  TC_002_LoginTest:35 - Clicked on Login button
+2024-05-09 17:20:04 INFO  TC_002_LoginTest:44 - Login Successful... Test Passed
+2024-05-09 17:20:04 INFO  TC_002_LoginTest:61 - **********Finished TC_002_LoginTest*********
+2024-05-09 17:24:20 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\grid-docker-crossbrowser.xml"
+2024-05-09 17:24:21 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\grid-docker-crossbrowser.xml
+
+2024-05-09 17:24:26 INFO  TC_001_AccountRegistrationTest:16 - *******Starting TC_001_AccountRegistrationTest*********
+2024-05-09 17:24:26 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log mesaage
+2024-05-09 17:24:29 INFO  TC_001_AccountRegistrationTest:16 - *******Starting TC_001_AccountRegistrationTest*********
+2024-05-09 17:24:29 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log mesaage
+2024-05-09 17:24:29 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-05-09 17:24:29 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-05-09 17:24:29 INFO  TC_001_AccountRegistrationTest:67 - *********Finished Tc_001_AccountRegistrationTest*******
+2024-05-09 17:24:29 INFO  TC_001_AccountRegistrationTest:67 - *********Finished Tc_001_AccountRegistrationTest*******
+2024-05-09 17:24:39 INFO  TC_002_LoginTest:16 - ***********Starting TC_002_LoginTest***********
+2024-05-09 17:24:39 DEBUG TC_002_LoginTest:17 - This is a debug log mesaage
+2024-05-09 17:24:39 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link on Home Page
+2024-05-09 17:24:40 INFO  TC_002_LoginTest:25 - Clicked on Login under MyAccount
+2024-05-09 17:24:40 INFO  TC_002_LoginTest:29 - Entering Valid Email Address and Password
+2024-05-09 17:24:40 INFO  TC_002_LoginTest:31 - Entered Email Address
+2024-05-09 17:24:40 INFO  TC_002_LoginTest:33 - Entered Email Password
+2024-05-09 17:24:41 INFO  TC_002_LoginTest:35 - Clicked on Login button
+2024-05-09 17:24:42 INFO  TC_002_LoginTest:44 - Login Successful... Test Passed
+2024-05-09 17:24:42 INFO  TC_002_LoginTest:61 - **********Finished TC_002_LoginTest*********
+2024-05-09 17:29:33 INFO  TC_002_LoginTest:16 - ***********Starting TC_002_LoginTest***********
+2024-05-09 17:29:33 DEBUG TC_002_LoginTest:17 - This is a debug log mesaage
+2024-05-09 17:29:33 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link on Home Page
+2024-05-09 17:29:33 INFO  TC_002_LoginTest:25 - Clicked on Login under MyAccount
+2024-05-09 17:29:33 INFO  TC_002_LoginTest:29 - Entering Valid Email Address and Password
+2024-05-09 17:29:34 INFO  TC_002_LoginTest:31 - Entered Email Address
+2024-05-09 17:29:34 INFO  TC_002_LoginTest:33 - Entered Email Password
+2024-05-09 17:29:35 INFO  TC_002_LoginTest:35 - Clicked on Login button
+2024-05-09 17:29:35 INFO  TC_002_LoginTest:44 - Login Successful... Test Passed
+2024-05-09 17:29:35 INFO  TC_002_LoginTest:61 - **********Finished TC_002_LoginTest*********
+2024-05-09 17:31:12 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\grid-docker-crossbrowser.xml"
+2024-05-09 17:31:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\grid-docker-crossbrowser.xml
+
+2024-05-09 17:31:17 INFO  TC_001_AccountRegistrationTest:16 - *******Starting TC_001_AccountRegistrationTest*********
+2024-05-09 17:31:17 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log mesaage
+2024-05-09 17:31:21 INFO  TC_001_AccountRegistrationTest:16 - *******Starting TC_001_AccountRegistrationTest*********
+2024-05-09 17:31:21 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log mesaage
+2024-05-09 17:31:22 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-05-09 17:31:22 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-05-09 17:31:22 INFO  TC_001_AccountRegistrationTest:67 - *********Finished Tc_001_AccountRegistrationTest*******
+2024-05-09 17:31:22 INFO  TC_001_AccountRegistrationTest:67 - *********Finished Tc_001_AccountRegistrationTest*******
+2024-05-09 17:31:34 INFO  TC_002_LoginTest:16 - ***********Starting TC_002_LoginTest***********
+2024-05-09 17:31:34 DEBUG TC_002_LoginTest:17 - This is a debug log mesaage
+2024-05-09 17:31:35 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link on Home Page
+2024-05-09 17:31:35 INFO  TC_002_LoginTest:25 - Clicked on Login under MyAccount
+2024-05-09 17:31:35 INFO  TC_002_LoginTest:29 - Entering Valid Email Address and Password
+2024-05-09 17:31:35 INFO  TC_002_LoginTest:31 - Entered Email Address
+2024-05-09 17:31:35 INFO  TC_002_LoginTest:33 - Entered Email Password
+2024-05-09 17:31:36 INFO  TC_002_LoginTest:35 - Clicked on Login button
+2024-05-09 17:31:37 INFO  TC_002_LoginTest:44 - Login Successful... Test Passed
+2024-05-09 17:31:37 INFO  TC_002_LoginTest:61 - **********Finished TC_002_LoginTest*********
+2024-05-09 18:29:15 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\grid-docker.xml"
+2024-05-09 18:29:15 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\grid-docker.xml
+
+2024-05-09 18:29:24 INFO  TC_001_AccountRegistrationTest:16 - *******Starting TC_001_AccountRegistrationTest*********
+2024-05-09 18:29:24 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log mesaage
+2024-05-09 18:29:24 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-05-09 18:29:26 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link
+2024-05-09 18:29:28 INFO  TC_001_AccountRegistrationTest:41 - Clicked on Continue Button for Account creation
+2024-05-09 18:29:30 INFO  TC_001_AccountRegistrationTest:44 - Validating Expected message
+2024-05-09 18:29:30 INFO  TC_001_AccountRegistrationTest:57 - Test Passed
+2024-05-09 18:29:30 INFO  TC_001_AccountRegistrationTest:67 - *********Finished Tc_001_AccountRegistrationTest*******
+2024-05-09 18:29:35 INFO  TC_002_LoginTest:16 - ***********Starting TC_002_LoginTest***********
+2024-05-09 18:29:35 DEBUG TC_002_LoginTest:17 - This is a debug log mesaage
+2024-05-09 18:29:35 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link on Home Page
+2024-05-09 18:29:36 INFO  TC_002_LoginTest:25 - Clicked on Login under MyAccount
+2024-05-09 18:29:36 INFO  TC_002_LoginTest:29 - Entering Valid Email Address and Password
+2024-05-09 18:29:36 INFO  TC_002_LoginTest:31 - Entered Email Address
+2024-05-09 18:29:36 INFO  TC_002_LoginTest:33 - Entered Email Password
+2024-05-09 18:29:37 INFO  TC_002_LoginTest:35 - Clicked on Login button
+2024-05-09 18:29:38 INFO  TC_002_LoginTest:44 - Login Successful... Test Passed
+2024-05-09 18:29:38 INFO  TC_002_LoginTest:61 - **********Finished TC_002_LoginTest*********
+2024-05-09 18:29:50 INFO  TC_001_AccountRegistrationTest:16 - *******Starting TC_001_AccountRegistrationTest*********
+2024-05-09 18:29:50 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log mesaage
+2024-05-09 18:29:50 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-05-09 18:29:51 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link
+2024-05-09 18:29:53 INFO  TC_001_AccountRegistrationTest:41 - Clicked on Continue Button for Account creation
+2024-05-09 18:29:56 INFO  TC_001_AccountRegistrationTest:44 - Validating Expected message
+2024-05-09 18:29:56 INFO  TC_001_AccountRegistrationTest:57 - Test Passed
+2024-05-09 18:29:56 INFO  TC_001_AccountRegistrationTest:67 - *********Finished Tc_001_AccountRegistrationTest*******
+2024-05-09 18:30:05 INFO  TC_002_LoginTest:16 - ***********Starting TC_002_LoginTest***********
+2024-05-09 18:30:05 DEBUG TC_002_LoginTest:17 - This is a debug log mesaage
+2024-05-09 18:30:06 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link on Home Page
+2024-05-09 18:30:06 INFO  TC_002_LoginTest:25 - Clicked on Login under MyAccount
+2024-05-09 18:30:06 INFO  TC_002_LoginTest:29 - Entering Valid Email Address and Password
+2024-05-09 18:30:06 INFO  TC_002_LoginTest:31 - Entered Email Address
+2024-05-09 18:30:07 INFO  TC_002_LoginTest:33 - Entered Email Password
+2024-05-09 18:30:07 INFO  TC_002_LoginTest:35 - Clicked on Login button
+2024-05-09 18:30:08 INFO  TC_002_LoginTest:44 - Login Successful... Test Passed
+2024-05-09 18:30:08 INFO  TC_002_LoginTest:61 - **********Finished TC_002_LoginTest*********
+2024-05-09 18:47:24 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\master.xml"
+2024-05-09 18:49:04 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\master.xml"
+2024-05-09 18:51:44 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\master.xml"
+2024-05-09 18:51:55 INFO  TC_001_AccountRegistrationTest:16 - *******Starting TC_001_AccountRegistrationTest*********
+2024-05-09 18:51:55 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log mesaage
+2024-05-09 18:51:55 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-05-09 18:51:57 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link
+2024-05-09 18:52:00 INFO  TC_001_AccountRegistrationTest:41 - Clicked on Continue Button for Account creation
+2024-05-09 18:52:02 INFO  TC_001_AccountRegistrationTest:44 - Validating Expected message
+2024-05-09 18:52:02 INFO  TC_001_AccountRegistrationTest:57 - Test Passed
+2024-05-09 18:52:02 INFO  TC_001_AccountRegistrationTest:67 - *********Finished Tc_001_AccountRegistrationTest*******
+2024-05-09 18:52:09 INFO  TC_002_LoginTest:16 - ***********Starting TC_002_LoginTest***********
+2024-05-09 18:52:09 DEBUG TC_002_LoginTest:17 - This is a debug log mesaage
+2024-05-09 18:52:09 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link on Home Page
+2024-05-09 18:52:10 INFO  TC_002_LoginTest:25 - Clicked on Login under MyAccount
+2024-05-09 18:52:10 INFO  TC_002_LoginTest:29 - Entering Valid Email Address and Password
+2024-05-09 18:52:10 INFO  TC_002_LoginTest:31 - Entered Email Address
+2024-05-09 18:52:10 INFO  TC_002_LoginTest:33 - Entered Email Password
+2024-05-09 18:52:11 INFO  TC_002_LoginTest:35 - Clicked on Login button
+2024-05-09 18:52:11 INFO  TC_002_LoginTest:44 - Login Successful... Test Passed
+2024-05-09 18:52:11 INFO  TC_002_LoginTest:61 - **********Finished TC_002_LoginTest*********
+2024-05-09 18:52:12 INFO  TC_002_LoginTest:16 - ***********Starting TC_002_LoginTest***********
+2024-05-09 18:52:12 DEBUG TC_002_LoginTest:17 - This is a debug log mesaage
+2024-05-09 18:52:12 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link on Home Page
+2024-05-09 18:52:13 INFO  TC_002_LoginTest:25 - Clicked on Login under MyAccount
+2024-05-09 18:52:13 INFO  TC_002_LoginTest:29 - Entering Valid Email Address and Password
+2024-05-09 18:52:13 INFO  TC_002_LoginTest:31 - Entered Email Address
+2024-05-09 18:52:13 INFO  TC_002_LoginTest:33 - Entered Email Password
+2024-05-09 18:52:14 INFO  TC_002_LoginTest:35 - Clicked on Login button
+2024-05-09 18:52:14 INFO  TC_002_LoginTest:44 - Login Successful... Test Passed
+2024-05-09 18:52:14 INFO  TC_002_LoginTest:61 - **********Finished TC_002_LoginTest*********
+2024-05-09 19:21:33 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\master.xml"
+2024-05-09 19:21:39 INFO  TC_001_AccountRegistrationTest:16 - *******Starting TC_001_AccountRegistrationTest*********
+2024-05-09 19:21:39 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log mesaage
+2024-05-09 19:21:39 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-05-09 19:21:40 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link
+2024-05-09 19:21:42 INFO  TC_001_AccountRegistrationTest:41 - Clicked on Continue Button for Account creation
+2024-05-09 19:21:44 INFO  TC_001_AccountRegistrationTest:44 - Validating Expected message
+2024-05-09 19:21:44 INFO  TC_001_AccountRegistrationTest:57 - Test Passed
+2024-05-09 19:21:44 INFO  TC_001_AccountRegistrationTest:67 - *********Finished Tc_001_AccountRegistrationTest*******
+2024-05-09 19:21:49 INFO  TC_002_LoginTest:16 - ***********Starting TC_002_LoginTest***********
+2024-05-09 19:21:49 DEBUG TC_002_LoginTest:17 - This is a debug log mesaage
+2024-05-09 19:21:49 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link on Home Page
+2024-05-09 19:21:50 INFO  TC_002_LoginTest:25 - Clicked on Login under MyAccount
+2024-05-09 19:21:50 INFO  TC_002_LoginTest:29 - Entering Valid Email Address and Password
+2024-05-09 19:21:50 INFO  TC_002_LoginTest:31 - Entered Email Address
+2024-05-09 19:21:50 INFO  TC_002_LoginTest:33 - Entered Email Password
+2024-05-09 19:21:51 INFO  TC_002_LoginTest:35 - Clicked on Login button
+2024-05-09 19:21:51 INFO  TC_002_LoginTest:44 - Login Successful... Test Passed
+2024-05-09 19:21:51 INFO  TC_002_LoginTest:61 - **********Finished TC_002_LoginTest*********
+2024-05-09 19:50:16 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\master.xml"
+2024-05-09 19:50:22 INFO  TC_001_AccountRegistrationTest:16 - *******Starting TC_001_AccountRegistrationTest*********
+2024-05-09 19:50:22 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log mesaage
+2024-05-09 19:50:22 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-05-09 19:50:23 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link
+2024-05-09 19:50:24 INFO  TC_001_AccountRegistrationTest:41 - Clicked on Continue Button for Account creation
+2024-05-09 19:50:44 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\kskmp\eclipse-workspace\OpenCartEcommerce\master.xml"
+2024-05-09 19:50:50 INFO  TC_001_AccountRegistrationTest:16 - *******Starting TC_001_AccountRegistrationTest*********
+2024-05-09 19:50:50 DEBUG TC_001_AccountRegistrationTest:17 - This is a debug log mesaage
+2024-05-09 19:50:50 INFO  TC_001_AccountRegistrationTest:23 - Clicked on MyAccount Link
+2024-05-09 19:50:51 INFO  TC_001_AccountRegistrationTest:26 - Clicked on Register Link
+2024-05-09 19:50:52 INFO  TC_001_AccountRegistrationTest:41 - Clicked on Continue Button for Account creation
+2024-05-09 19:50:54 INFO  TC_001_AccountRegistrationTest:44 - Validating Expected message
+2024-05-09 19:50:54 INFO  TC_001_AccountRegistrationTest:57 - Test Passed
+2024-05-09 19:50:54 INFO  TC_001_AccountRegistrationTest:67 - *********Finished Tc_001_AccountRegistrationTest*******
+2024-05-09 19:50:59 INFO  TC_002_LoginTest:16 - ***********Starting TC_002_LoginTest***********
+2024-05-09 19:50:59 DEBUG TC_002_LoginTest:17 - This is a debug log mesaage
+2024-05-09 19:51:00 INFO  TC_002_LoginTest:23 - Clicked on MyAccount link on Home Page
+2024-05-09 19:51:00 INFO  TC_002_LoginTest:25 - Clicked on Login under MyAccount
+2024-05-09 19:51:00 INFO  TC_002_LoginTest:29 - Entering Valid Email Address and Password
+2024-05-09 19:51:00 INFO  TC_002_LoginTest:31 - Entered Email Address
+2024-05-09 19:51:00 INFO  TC_002_LoginTest:33 - Entered Email Password
+2024-05-09 19:51:01 INFO  TC_002_LoginTest:35 - Clicked on Login button
+2024-05-09 19:51:01 INFO  TC_002_LoginTest:44 - Login Successful... Test Passed
+2024-05-09 19:51:01 INFO  TC_002_LoginTest:61 - **********Finished TC_002_LoginTest*********
